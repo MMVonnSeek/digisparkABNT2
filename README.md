@@ -1,11 +1,11 @@
 # digisparkABNT2
 
-O objetivo desse projeto é tornar viável ataques de HID utilizando um digispark em máquinas configuradas para operar com teclados abnt2.
+The objective of this project is to make HID attacks viable using a digispark on machines configured to operate with abnt2 keyboards.
 
-O arquivo **scancode-ascii-table.h** deve ser colocado dentro do diretório **C:\Users\USUÁRIO\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard**
+The file **scancode-ascii-table.h** must be placed inside the directory **C:\Users\USUÁRIO\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard* *
 
-Alguns caracteres ainda não funcionam, entretanto já é viável executar ataques de HID.
-UPDATE: ESSE SITE VAI AJUDAR A COLOCAR TODOS OS CHARS QUE ESTÃO FALTANDO http://kbdlayout.info/KBDBR/scancodes
+Some characters still do not work, however it is already feasible to perform HID attacks.
+UPDATE: THIS SITE WILL HELP PUT ALL THE MISSING CHARS http://kbdlayout.info/KBDBR/scancodes
 
 
 ![alt tag](https://i.stack.imgur.com/z5CeU.jpg)
