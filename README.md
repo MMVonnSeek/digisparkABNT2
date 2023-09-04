@@ -9,3 +9,8 @@ UPDATE: THIS SITE WILL HELP PUT ALL THE MISSING CHARS http://kbdlayout.info/KBDB
 
 
 ![alt tag](https://i.stack.imgur.com/z5CeU.jpg)
+
+
+
+<sub>Optional (if you can follow me and leave a star in the repository)  ⭐
+Thank you
